@@ -1,16 +1,39 @@
-### Hi there 👋
+### 🌊 Be welcome to my Room xD
 
-<!--
-**m6sser/m6sser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" src="https://i.imgur.com/FaI6b7V.png" width="300" height="300" />
 
-Here are some ideas to get you started:
+[![stats](https://github-readme-stats.vercel.app/api?username=hsbrgg&show_icons=true&count_private=true&theme=blue&hide_border=false&custom_title=Check%20some%20stats!%20)](https://wakatime.com/@hsbrgg)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#
+
+### 💦 Who am I?
+- ![info](https://img.shields.io/static/v1?logo=ReverbNation&label=&message=Felipe%20Messer%20&labelColor=4f94ef&color=white&logoColor=white&style=flat)
+![info1](https://img.shields.io/static/v1?logo=Google%20Maps&label=&message=Brazil&color=white&logoColor=white&style=flat&labelColor=4f94ef)
+[![info2](https://img.shields.io/static/v1?logo=Southwest%20Airlines&label=&message=S&color=white&logoColor=white&style=flat&labelColor=4f94ef)](https://imgur.com/gallery/2cNfedV)
+- ![lang](https://img.shields.io/static/v1?logo=Google%20Translate&label=&message=Idioms&color=white&logoColor=white&style=flat&labelColor=4f94ef)
+![lang1](https://img.shields.io/static/v1?label=&message=Portuguese&color=white&logoColor=white&style=flat)
+![lang2](https://img.shields.io/static/v1?label=&message=English&color=white&logoColor=white&style=flat)
+- ![languages](https://img.shields.io/static/v1?logo=Python&label=&message=Python&color=white&logoColor=white&style=flat&labelColor=4f94ef)
+[![languages1](https://img.shields.io/static/v1?logo=Kali%20Linux&label=&message=Kali%20Linux&color=white&logoColor=white&style=flat&labelColor=4f94ef)](https://www.kali.org)
+[![languages3](https://img.shields.io/static/v1?logo=Atom&label=&message=Atom&color=white&logoColor=white&style=flat&labelColor=4f94ef)](https://atom.io)
+
+#
+
+### 🐬 Find me here!
+- [![social](https://img.shields.io/static/v1?logo=twitter&link=https://twitter.com/hsbrgg&label=&message=hsbrgg&color=white&logoColor=white&style=flat&labelColor=4f94ef)](https://twitter.com/hsbrgg)
+[![social1](https://img.shields.io/static/v1?logo=instagram&link=https://instagram.com/fmesser11&label=&message=fmesser11&color=white&logoColor=white&style=flat&labelColor=4f94ef)](https://instagram.com/fmesser11)
+[![social2](https://img.shields.io/static/v1?logo=GitHub&link=https://github.com/hsbrgg&label=&message=hsbrgg&color=white&logoColor=white&style=flat&labelColor=4f94ef)](https://github.com/hsbrgg)
+[![social3](https://img.shields.io/static/v1?logo=Discord&link=http://discordapp.com/users/974844018762588200&label=&message=messer%232396&color=white&logoColor=white&style=flat&labelColor=4f94ef)](http://discordapp.com/users/974844018762588200)
+
+#
+
+</details>
+<details>
+  <summary>🐳 Click! (Tracking since: 06/05/2022) </summary>
+  ㅤ
+  
+  [![wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=hsbrgg)](https://wakatime.com/@hsbrgg)
+  
+  [![streak](https://github-readme-streak-stats.herokuapp.com?user=hsbrgg&theme=github-dark-blue&date_format=n%2Fj%5B%2FY%5D&background=FFFFFF&stroke=4F94EF&currStreakLabel=4F94EF&currStreakNum=505963&sideNums=4F94EF&sideLabels=4F94EF&border=DDDBDB)](https://github.com/hsbrgg)
+  
+</details>
