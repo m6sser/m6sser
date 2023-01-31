@@ -16,7 +16,6 @@
   [![streak](https://github-readme-streak-stats.herokuapp.com?user=m6sser&theme=github-dark-blue&date_format=n%2Fj%5B%2FY%5D&background=FFFFFF&stroke=4F94EF&currStreakLabel=4F94EF&currStreakNum=505963&sideNums=4F94EF&sideLabels=4F94EF&border=DDDBDB)](https://github.com/m6sser)
   
 </details>
-
 #
 
 ### 💦 Who am I?
