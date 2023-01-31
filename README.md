@@ -1,6 +1,6 @@
 ### 🌊 Be welcome to my Room xD
 
-<img align="right" src="https://64.media.tumblr.com/3791a9c43cb16120853e54548ba393db/tumblr_o2fwttFAGE1uf5j8co1_500.gif" width="300" height="200"/>
+<img align="right" src="https://thumbs.gfycat.com/IcyAdeptDanishswedishfarmdog-max-1mb.gif" width="280" height="220"/>
 
 [![stats](https://github-readme-stats.vercel.app/api?username=m6sser&show_icons=true&count_private=true&theme=black&hide_border=true&custom_title=Check%20some%20stats!%20)](https://wakatime.com/@m6sser)
 
