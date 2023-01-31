@@ -1,6 +1,6 @@
 ### 🌊 Be welcome to my Room xD
 
-<img align="right" src="https://i.imgur.com/Nq4P0NR.gif" width="280" height="280" blur="1.0" />
+<img align="right" src="https://i.imgur.com/Nq4P0NR.gif" width="280" height="280" blur="25.0" />
 
 [![stats](https://github-readme-stats.vercel.app/api?username=m6sser&show_icons=true&count_private=true&theme=blue&hide_border=false&custom_title=Check%20some%20stats!%20)](https://wakatime.com/@m6sser)
 
