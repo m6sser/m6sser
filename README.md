@@ -1,6 +1,10 @@
 ### 🌊 Be welcome to my Room xD
 
-<img align="top" src="https://thumbs.gfycat.com/IcyAdeptDanishswedishfarmdog-max-1mb.gif" width="320" height="220"/>
+<img align="top" src="https://thumbs.gfycat.com/IcyAdeptDanishswedishfarmdog-max-1mb.gif" width="320" height="220"/ @IBOutlet weak var containerView: UIView! {
+      didSet {
+          self.containerView.layer.cornerRadius = 10
+      }
+}>
 
 [![stats](https://github-readme-stats.vercel.app/api?username=m6sser&show_icons=true&count_private=false&theme=blue&hide_border=true&custom_title=Check%20some%20stats!%20)](https://wakatime.com/@m6sser)
 
