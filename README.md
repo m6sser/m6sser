@@ -3,7 +3,6 @@
 <img align="top" src="https://i.imgur.com/E3aBiPa.gif" width="320" height="220"/>
 
 [![stats](https://github-readme-stats.vercel.app/api?username=m6sser&show_icons=true&count_private=false&theme=blue&hide_border=false&custom_title=Check%20some%20stats!%20)](https://wakatime.com/@m6sser)
-
 #
 
 ### 💦 Who am I?
@@ -37,5 +36,3 @@
   [![streak](https://github-readme-streak-stats.herokuapp.com?user=m6sser&theme=github-dark-blue&date_format=n%2Fj%5B%2FY%5D&background=FFFFFF&stroke=4F94EF&currStreakLabel=4F94EF&currStreakNum=505963&sideNums=4F94EF&sideLabels=4F94EF&border=DDDBDB)](https://github.com/m6sser)
   
 </details>
-
-<figure><embed src="https://wakatime.com/share/@m6sser/07a5b16c-a4a5-48e7-b47d-7817c65d2311.svg"></embed></figure>
