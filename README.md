@@ -1,10 +1,6 @@
 ### 🌊 Be welcome to my Room xD
 
-<img align="top" src="https://thumbs.gfycat.com/IcyAdeptDanishswedishfarmdog-max-1mb.gif" width="320" height="220"/ @IBOutlet weak var containerView: UIView! {
-      didSet {
-          self.containerView.layer.cornerRadius = 10
-      }
-}>
+<img align="top" src="https://i.imgur.com/E3aBiPa.gif" width="320" height="220"/>
 
 [![stats](https://github-readme-stats.vercel.app/api?username=m6sser&show_icons=true&count_private=false&theme=blue&hide_border=true&custom_title=Check%20some%20stats!%20)](https://wakatime.com/@m6sser)
 
@@ -33,9 +29,9 @@
 
 </details>
 <details>
-  <summary>🐳 Click! (Tracking since: 06/05/2022) </summary>
-  ㅤ
-  
+  <summary>🐳 Click here! (Tracking since: 06/05/2022)</summary>
+  ㅤ 
+      
   [![wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=m6sser)](https://wakatime.com/@m6sser)
   
   [![streak](https://github-readme-streak-stats.herokuapp.com?user=m6sser&theme=github-dark-blue&date_format=n%2Fj%5B%2FY%5D&background=FFFFFF&stroke=4F94EF&currStreakLabel=4F94EF&currStreakNum=505963&sideNums=4F94EF&sideLabels=4F94EF&border=DDDBDB)](https://github.com/m6sser)
