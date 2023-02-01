@@ -37,3 +37,5 @@
   [![streak](https://github-readme-streak-stats.herokuapp.com?user=m6sser&theme=github-dark-blue&date_format=n%2Fj%5B%2FY%5D&background=FFFFFF&stroke=4F94EF&currStreakLabel=4F94EF&currStreakNum=505963&sideNums=4F94EF&sideLabels=4F94EF&border=DDDBDB)](https://github.com/m6sser)
   
 </details>
+
+<figure><embed src="https://wakatime.com/share/@m6sser/07a5b16c-a4a5-48e7-b47d-7817c65d2311.svg"></embed></figure>
