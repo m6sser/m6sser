@@ -1,8 +1,8 @@
 ### 🌊 Be welcome to my Room xD 
 
-<img align="down" src="https://i.imgur.com/E3aBiPa.gif" width="320" height="220"/> [![wakatime](https://wakatime.com/badge/user/822eed34-bd99-43d4-9b7d-7a7e6d27e3c0.svg)](https://wakatime.com/@822eed34-bd99-43d4-9b7d-7a7e6d27e3c0) 
+<img align="down" src="https://i.imgur.com/E3aBiPa.gif" width="320" height="220"/> [![wakatime](https://wakatime.com/badge/user/822eed34-bd99-43d4-9b7d-7a7e6d27e3c0.svg)](https://github.com/m6sser)
 
-![m6sser's GitHub stats](https://github-readme-stats.vercel.app/api?username=m6sser&show_icons=true&theme=github_dark )
+[![m6sser's GitHub stats](https://github-readme-stats.vercel.app/api?username=m6sser&show_icons=true&theme=github_dark)](https://github.com/m6sser)
 #
 
 ### 💦 Who am I?
@@ -31,7 +31,7 @@
   <summary>🐳 Click here! (Tracking since: 06/05/2022)</summary>
   ㅤ 
       
-  [![m6sser's wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=m6sser&theme=github_dark&custom_title=My%20Wakatime%20stats!%20:p%20)](https://wakatime.com/@m6sser)
+  [![m6sser's wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=m6sser&theme=github_dark&custom_title=My%20Wakatime%20stats!%20:p%20)](https://github.com/m6sser)
   
   [![m6sser's streak](https://github-readme-streak-stats.herokuapp.com/?user=m6sser&theme=github-dark-blue&date_format=n%2Fj%5B%2FY%5D&background=FFFFFFstroke=4F94EF&currStreakLabel=4F94EF&currStreakNum=505963&sideNums=4F94EF&sideLabels=4F94EF&border=DDDBDB)](https://github.com/m6sser)
   </details>
