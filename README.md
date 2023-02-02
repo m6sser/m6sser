@@ -1,6 +1,6 @@
-### 🌊 Be welcome to my Room xD
+### 🌊 Be welcome to my Room xD 
 
-<img align="top" src="https://i.imgur.com/E3aBiPa.gif" width="320" height="220"/>
+<img align="down" src="https://i.imgur.com/E3aBiPa.gif" width="320" height="220"/> [![wakatime](https://wakatime.com/badge/user/822eed34-bd99-43d4-9b7d-7a7e6d27e3c0.svg)](https://wakatime.com/@822eed34-bd99-43d4-9b7d-7a7e6d27e3c0) 
 
 [![stats](https://github-readme-stats.vercel.app/api?username=m6sser&show_icons=true&count_private=false&theme=blue&hide_border=false&custom_title=Check%20my%20stats!%20xD%20)](https://wakatime.com/@m6sser)
 #
