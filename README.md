@@ -1,6 +1,6 @@
 ### 🌊 Be welcome to my Room xD 
 
-<img align="down" src="https://i.imgur.com/E3aBiPa.gif" width="320" height="220"/> [![wakatime](https://wakatime.com/badge/user/822eed34-bd99-43d4-9b7d-7a7e6d27e3c0.svg)](https://github.com/m6sser)
+<img align="down" src="https://i.imgur.com/E3aBiPa.gif" width="320" height="220"/>
 
   [![m6sser's GitHub stats](https://github-readme-stats.vercel.app/api?username=m6sser&show_icons=true&theme=github_dark)](https://github.com/m6sser)
   
@@ -15,6 +15,7 @@
   ![lang2](https://img.shields.io/static/v1?label=&message=English&color=white&logoColor=white&style=flat)
 - [![languages](https://img.shields.io/static/v1?logo=Python&label=&message=Python&color=white&logoColor=white&style=flat&labelColor=4f94ef)](https://www.python.org)
   [![languages1](https://img.shields.io/static/v1?logo=Kali%20Linux&label=&message=Kali%20Linux&color=white&logoColor=white&style=flat&labelColor=4f94ef)](https://www.kali.org)
+  [![languages2](https://img.shields.io/static/v1?logo=Windows%2011&label=&message=Windows%2011&color=white&logoColor=white&style=flat&labelColor=4f94ef)](https://www.microsoft.com/pt-br/software-download/windows11)
   [![languages3](https://img.shields.io/static/v1?logo=Atom&label=&message=Atom&color=white&logoColor=white&style=flat&labelColor=4f94ef)](https://atom.io)
 
 #
@@ -33,5 +34,5 @@
   
    [![m6sser's wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=m6sser&theme=github_dark&custom_title=My%20Wakatime%20stats!%20:p%20)](https://github.com/m6sser)
   
-   [![m6sser's streak](https://github-readme-streak-stats.herokuapp.com/?user=m6sser&theme=github-dark-blue&date_format=n%2Fj%5B%2FY%5D&background=FFFFFFstroke=4F94EF&currStreakLabel=4F94EF&currStreakNum=505963&sideNums=4F94EF&sideLabels=4F94EF&border=DDDBDB)](https://github.com/m6sser)
+   [![m6sser's streak](https://github-readme-streak-stats.herokuapp.com/?user=m6sser&theme=github-dark-blue&date_format=n%2Fj%5B%2FY%5D&background=FFFFFFstroke=4F94EF&currStreakLabel=4F94EF&currStreakNum=505963&sideNums=4F94EF&sideLabels=4F94EF&border=DDDBDB)](https://github.com/m6sser) 
   </details>
