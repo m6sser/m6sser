@@ -32,7 +32,7 @@
   <details>
    <summary>🐳 Click here! (Tracking since: 06/05/2022)</summary>
   
-   [![m6sser's wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=m6sser&theme=github_dark&custom_title=My%20Wakatime%20stats!%20:p%20)](https://github.com/m6sser)
+   [![m6sser's wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=controlado&theme=github_dark&custom_title=My%20Wakatime%20stats!%20:p%20)](https://github.com/m6sser)
   
    [![m6sser's streak](https://github-readme-streak-stats.herokuapp.com/?user=m6sser&theme=github-dark-blue&date_format=n%2Fj%5B%2FY%5D&background=FFFFFFstroke=4F94EF&currStreakLabel=4F94EF&currStreakNum=505963&sideNums=4F94EF&sideLabels=4F94EF&border=DDDBDB)](https://github.com/m6sser) 
   </details>
