@@ -2,9 +2,9 @@
 
 <img align="down" src="https://i.imgur.com/E3aBiPa.gif" width="320" height="220"/>
 
-  [![m6sser's GitHub stats](https://github-readme-stats.vercel.app/api?username=m6sser&show_icons=true&theme=github_dark)](https://github.com/m6sser)
+  [![m6sser's GitHub stats](https://readme-github-stats-flame.vercel.app/api?username=controlado&card_width=495&hide_title=false&show_icons=true&count_private=true&include_all_commits=true&theme=github_dark&custom_title=Messer's%20Github%20stats!%20)](https://github.com/m6sser)
   
-#
+
 
 ### 💦 Who am I?
 - ![info](https://img.shields.io/static/v1?logo=ReverbNation&label=&message=Felipe%20Messer%20&labelColor=4f94ef&color=white&logoColor=white&style=flat)
@@ -32,7 +32,7 @@
   <details>
    <summary>🐳 Click here! (Tracking since: 06/05/2022)</summary>
   
-   [![m6sser's wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=controlado&theme=github_dark&custom_title=My%20Wakatime%20stats!%20:p%20)](https://github.com/m6sser)
+   [![m6sser's wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=89c5e1c8-9e67-43ef-bd0e-3ff9a4fde5e2&langs_count=6&range=all_time&theme=github_dark&custom_title=My%20Wakatime%20stats!%20:p%20)](https://github.com/m6sser)
   
-   [![m6sser's streak](https://github-readme-streak-stats.herokuapp.com/?user=m6sser&theme=github-dark-blue&date_format=n%2Fj%5B%2FY%5D&background=FFFFFFstroke=4F94EF&currStreakLabel=4F94EF&currStreakNum=505963&sideNums=4F94EF&sideLabels=4F94EF&border=DDDBDB)](https://github.com/m6sser) 
+   [![m6sser's streak](https://github-readme-streak-stats.herokuapp.com/?user=controlado&theme=github-dark-blue&date_format=n%2Fj%5B%2FY%5D&background=FFFFFFstroke=4F94EF&currStreakLabel=4F94EF&currStreakNum=505963&sideNums=4F94EF&sideLabels=4F94EF&border=DDDBDB&hide_dates=true)](https://github.com/m6sser) 
   </details>
